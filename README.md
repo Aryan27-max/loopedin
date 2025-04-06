@@ -52,4 +52,13 @@
 ---
 
 ## 🧱 Project Structure
+loopedin.in/ 
+├── frontend/ # React + Tailwind + Gemini UI 
+├── backend/ # FastAPI backend (Python) 
+│ └── app/ # API endpoints and logic 
+├── screenshots/ # UI preview images 
+├── .env.example # Environment variable template 
+├── README.md
 
+## Go And Checkout the short 3 min vedio of the site 
+(https://drive.google.com/file/d/1vQeg0dPDLvFsyAYXd2swUhurRxQBA3hD/view?usp=sharing)
