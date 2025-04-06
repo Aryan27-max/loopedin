@@ -1,8 +1,6 @@
 # 🚀 LoopedIn.in – Your All-in-One Tech Career Platform
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Last Commit](https://img.shields.io/github/last-commit/Aryan27-max/loopedin.in)
-![Open Issues](https://img.shields.io/github/issues/Aryan27-max/loopedin.in)
 ![Deploy Status](https://img.shields.io/badge/deployed-live-success)
 
 > An AI-powered platform to plan your tech career, build projects, stay productive, and land jobs — all in one place.
